@@ -3,4 +3,5 @@ pandas
 matplotlib
 folium
 tqdm
+requests
 jupyter_contrib_nbextensions
