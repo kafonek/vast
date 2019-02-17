@@ -35,4 +35,5 @@ Intermediate questions:
  
 ### Hard Challenge
 
-to be written
+The hard challenge asks you to pull and parse data from the Ocearch api directly before answering the Easy, Intermediate, and Hard questions.  The Hard questions will be added in a future date.
+
