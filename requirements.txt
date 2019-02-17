@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+folium
+tqdm
+jupyter_contrib_nbextensions

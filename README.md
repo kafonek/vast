@@ -1,2 +1,1 @@
-# vast
-Code for VaST
+VaST Datacamp supplemental challenge, analyzing Shark data from the [Ocearch site](https://www.ocearch.org/)
